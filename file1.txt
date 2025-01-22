@@ -8,3 +8,4 @@ change after wierd merge
 adding hero section
 best sellers section
 gallery
+adjusting main banner
