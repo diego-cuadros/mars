@@ -7,3 +7,4 @@ change after wierd merge
 >>>>>>> Stashed changes
 adding hero section
 best sellers section
+gallery
