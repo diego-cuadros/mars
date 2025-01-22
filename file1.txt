@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 password
+=======
+hello
+lets do one more modification
+change after wierd merge
+>>>>>>> Stashed changes
