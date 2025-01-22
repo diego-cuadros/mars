@@ -9,3 +9,4 @@ adding hero section
 best sellers section
 gallery
 adjusting main banner
+product price
